@@ -1,0 +1,13 @@
+**************************************************
+*                                                *
+*            Nikos Curriculum Vitae              *
+*                                                *
+**************************************************
+
+My first name is Nikos.
+
+I am a computer programmer.
+
+I am married with three children.
+
+I was born in Thessaloniki, Greece in 1967.
